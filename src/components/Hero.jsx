@@ -5,17 +5,17 @@ import { RxDotFilled } from "react-icons/rx";
 function Hero() {
   const slides = [
     {
-      url: "../src/img/healthcare.webp",
+      url: "../assets/img/healthcare.webp",
     },
     {
-      url: "../src/img/health02.jpeg",
+      url: "../assets/src/img/health02.jpeg",
     },
     {
-      url: "../src/img/health03.webp",
+      url: "../assets/src/img/health03.webp",
     },
 
     {
-      url: "../src/img/hospital.jpeg",
+      url: "../assets/src/img/hospital.jpeg",
     },
   ];
 
